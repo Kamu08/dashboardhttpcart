@@ -14,4 +14,8 @@ Before running this project, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone 
+git clone https://github.com/Kamu08/dashboardhttpcart.git
+
+npm install
+
+npm start
